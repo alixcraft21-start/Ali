@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AliCraft</title>
+
+<style>
+body{
+    margin:0;
+    background:linear-gradient(135deg,#5b00ff,#18002e);
+    color:#fff;
+    font-family:tahoma,sans-serif;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+
+.card{
+    background:#222;
+    padding:40px;
+    border-radius:20px;
+    text-align:center;
+    box-shadow:0 0 20px #b100ff;
+}
+
+h1{
+    color:#d580ff;
+}
+
+a{
+    display:inline-block;
+    margin-top:20px;
+    padding:15px 35px;
+    background:#8a2be2;
+    color:#fff;
+    text-decoration:none;
+    border-radius:12px;
+    font-size:20px;
+}
+
+a:hover{
+    background:#b44cff;
+}
+</style>
+</head>
+<body>
+
+<div class="card">
+    <h1>💜 AliCraft 💜</h1>
+    <p>برای خرید رنک و امکانات سرور روی دکمه زیر کلیک کنید.</p>
+
+    <a href="https://ble.ir/rankserverali_bot" target="_blank">
+        🤖 ورود به ربات بله
+    </a>
+</div>
+
+</body>
+</html>
